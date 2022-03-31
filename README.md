@@ -19,10 +19,17 @@ Challenge # 1:
 Task: Write a program that performs the following:
 Enhance Programming Exercise by adding functions to the class clockType so that a
 program that uses this class can perform the following operations:
+
 a. Returns the elapsed time of the day of a clock in seconds.
+
 b. Returns the remaining time of the day to a clock in seconds.
+
 c. Determines and outputs how far apart in time two clocks are. (pass one parameter of
 class clockType)
+
 d. Outputs the time in the form hr:min: sec.
+
 Elapsed time = current time - 00:00:00
+
 Remaining time = 24:00:00 - a current time
+
